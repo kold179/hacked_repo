@@ -1,0 +1,5 @@
+trash.txt
+.idea/
+__pycache__/
+venv/
+env/
